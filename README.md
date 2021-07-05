@@ -1,0 +1,2 @@
+# EagleKiss
+join channel
